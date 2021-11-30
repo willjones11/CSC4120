@@ -1,3 +1,6 @@
+
+#Robotics Midterm Robot allow for user control until object is detected within certain range then diverts course unitl path is clear then allows for user control once more
+
 import threading
 import signal
 import queue
