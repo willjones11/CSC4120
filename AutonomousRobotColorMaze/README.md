@@ -47,6 +47,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
+William Jones - [LinkedIn](https://www.linkedin.com/in/william-jones-11180a210/) - will.jones11@hotmail.com <br>
+Project Link: https://github.com/willjones11/CSC4120/AutonomousRobotColorRecognition
+
+
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com <br>
 Project Link: https://github.com/ndanny09/AutonomousRobotColorRecognition
 
